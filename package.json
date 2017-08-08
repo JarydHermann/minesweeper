@@ -1,0 +1,17 @@
+{
+"name": "minesweeper-project",
+"version": "1.0.0",
+"description": "Codecademy Intensive Course",
+"main": "index.js",
+"dependencies": {
+"babel-cli": "^6.24.1",
+"babel-preset-env": "^1.6.0"
+},
+"devDependencies": {},
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1",
+"build": "babel src -d lib"
+},
+"author": "Jaryd Hermann",
+"license": "ISC"
+}
